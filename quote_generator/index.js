@@ -8,7 +8,8 @@ const quotes = [
     "Get busy living or get busy dying.",
     "You only live once, but if you do it right, once is enough.",
     "Many of life's failures are people who did not realize how close they were to success when they gave up.",
-    "If you want to live a happy life, tie it to a goal, not to people or things." 
+    "If you want to live a happy life, tie it to a goal, not to people or things."
+    "Fortis fortuna adiuvat!"
 ]
 
 const usedIndexes = new Set()
